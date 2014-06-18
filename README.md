@@ -1,4 +1,4 @@
-### ¿Quién corrió más en el partido contra Bosnia?
+# ¿Quién corrió más en el partido contra Bosnia?
 
 Descubrí cuánto corrió cada uno de los jugadores argentinos en su primer partido del Mundial Brasil 2014.
 
